@@ -1,0 +1,8 @@
+This script is based on the project jsgettext : http://code.google.com/p/jsgettext/
+I've updated it slightly to meet my need
+
+Usage :
+======= 
+php po2json -i <path/to/file.po> -o <path/to/file.json> {optional} -n <variable name (default is l10n)>
+
+I personnaly used it to translate some js stuff with http://plugins.jquery.com/project/gettext
