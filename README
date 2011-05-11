@@ -5,4 +5,4 @@ Usage :
 ======= 
 php po2json -i <path/to/file.po> -o <path/to/file.json> {optional} -n <variable name (default is l10n)>
 
-I personnaly used it to translate some js stuff with http://plugins.jquery.com/project/gettext
+I personaly used it to translate some js stuff with http://plugins.jquery.com/project/gettext
